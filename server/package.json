@@ -1,0 +1,17 @@
+{
+  "name": "rxjs-kata",
+  "version": "1.0.0",
+  "description": "The goal of this kata is to get you familiar with [rxjs](https://rxjs.dev/). [Rxjs](https://rxjs.dev/) is a core part of [Angular](https://angular.io). To be effective in [Angular](https://angular.io) you must know some basic [rxjs](https://rxjs.dev) ideas.",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cors": "2.8.5",
+    "express": "^4.17.1",
+    "ws": "7.2.0"
+  }
+}
